@@ -166,8 +166,8 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        borderColor: '#0076FF',
-        borderWidth: 1,
+        borderColor: 'transparent',
+        borderWidth: 0,
         backgroundColor: 'white',
     },
     activeTabStyle: {
